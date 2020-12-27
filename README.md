@@ -1,2 +1,5 @@
 # Corretora-de-valores-JETAs
-Ultimo projeto realizado durante a graduação em Análise e Desenvolvimento de Sistemas.
+Programa de uma corretora — JETAs — de valores em sua versão Desktop e Web. O último projeto realizado durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Crédito: Eduardo Franco  
+         Tales Carneiro
