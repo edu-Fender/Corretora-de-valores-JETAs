@@ -1,0 +1,32 @@
+MANUAL DE INSTALAÇÃO!
+
+EXTRAIR O ARQUIVO "CorretoraDesktop.zip". 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+CRIAR BANCO DE DADOS MS SQL SERVER DE ACORDO COM O SCRIPT 'Corretora.sql'.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+ABRIR O ARQUIVO "Corretora.exe.config".
+
+ATUALIZAR A STRING DE CONEXÃO '<connectionStrings>...</connectionStrings>', 
+ENTRAR COM AS INFORMAÇÕES DO BANCO DE DADOS 'Server=NOMEDOSERVIDOR;Database=NOMEDOBANCODEDADOS;Trusted_Connection=True',
+ENTRAR COM AUTENTICAÇÃO DO BANCO DE DADOS (SE FOR NECESSÁRIO).
+
+NÃO ALTERAR O NOME DA STRING DE CONEXÃO 'name="string"' DE MANEIRA ALGUMA. 
+
+CONSULTAR "https://www.connectionstrings.com/" PARA MAIS INFORMAÇÕES DE COMO FORMATAR A STRING DE CONEXÃO.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+OBS: PROGRAMA NÃO FUNCIONARÁ SE O BANCO DE DADOS MS SQL SERVER NÃO ESTIVER EXATAMENTE COMO O ESPECIFICADO EM 'CorretoraDB.sql'!
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+PARA RODAR O PROGRAMA BASTA ABRIR O ARQUIVO CORRETORA.EXE E NAVEGAR PELAS TELAS DE MENU.
+
+EM CASO DE DÚVIDAS ENVIE UM EMAIL PARA: aneweduardo@hotmail.com
+
+OBRIGADO!
+EDUARDO FRANCO

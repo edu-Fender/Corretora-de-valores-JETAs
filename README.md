@@ -2,13 +2,13 @@
 
 Sistema para corretora de valores, em sua versão Desktop e Web. Último projeto realizado durante a graduação em Análise e Desenvolvimento de Sistemas.
 
-Desenvolvido nas linguagens: C#, .NET, Java, HTML, CSS, JAVASCRIPT, Bootstrap. MS SQL SERVER como banco de dados.
+Desenvolvido nas linguagens: C#, .NET, Java, HTML, CSS, JAVASCRIPT, Bootstrap. MS SQL SERVER como banco de dados e Dapper como ORM (Object–Relational Mapping).
 
 <hr>
 
 Application for stockbrokers, in its Desktop and Web version. Last project built during Systems Analysis graduation. 
 
-Built with: C#, .NET, Java, HTML, CSS, JAVASCRIPT, Bootstrap. MS SQL SERVER as database.
+Built with: C#, .NET, Java, HTML, CSS, JAVASCRIPT, Bootstrap. MS SQL SERVER as database and Dapper as ORM (Object–Relational Mapping).
 
 <hr>
 <p align="center">Desktop - Login:</p>
